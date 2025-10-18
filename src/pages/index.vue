@@ -118,7 +118,7 @@
           </section>
 
           <!-- Features Section -->
-          <section id="features" class="features-section py-16">
+          <!-- <section id="features" class="features-section py-16">
             <v-container>
               <div class="text-center mb-12">
                 <h2 class="text-h3 font-weight-bold mb-4">Key Features</h2>
@@ -153,10 +153,10 @@
                 </v-col>
               </v-row>
             </v-container>
-          </section>
+          </section> -->
 
           <!-- About Section -->
-          <section id="about" class="about-section py-16 bg-grey-lighten-4">
+          <!-- <section id="about" class="about-section py-16 bg-grey-lighten-4">
             <v-container>
               <v-row align="center" justify="center">
                 <v-col cols="12" lg="8" md="10">
@@ -198,7 +198,7 @@
                 </v-col>
               </v-row>
             </v-container>
-          </section>
+          </section> -->
         </div>
       </div>
     </template>
