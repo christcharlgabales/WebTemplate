@@ -47,14 +47,14 @@ onMounted(async () => {
       </slot>
     </v-main>
 
-    <OuterFooter
+    <!-- <OuterFooter
       v-if="data?.ui?.footerComponent === '1'"
       :config="data?.ui"
     />
     <OuterFooter2
       v-else-if="data?.ui?.footerComponent === '2'"
       :config="data?.ui"
-    />
+    /> -->
   </v-app>
 </template>
 
